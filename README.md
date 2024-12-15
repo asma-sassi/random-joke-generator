@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copier le code
-git clone https://github.com/your-username/random-joke-generator.git
+git clone https://github.com/asma-sassi/random-joke-generator.git
 Open the index.html file in your browser.
 
 Enjoy the random jokes!
